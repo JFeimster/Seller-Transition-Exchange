@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Sale Preparation",
+    "description": "Define the outcome, readiness baseline, buyer profile, and controlled process.",
+    "display_order": 1,
+    "icon_identifier": "compass",
+    "related_seller_stage": "Prepare",
+    "guide_slugs": [
+      "preparing-to-sell-your-business"
+    ]
+  },
+  {
+    "name": "Valuation and Value Building",
+    "description": "Understand value drivers and improve durable transferability.",
+    "display_order": 2,
+    "icon_identifier": "trend-up",
+    "related_seller_stage": "Prepare",
+    "guide_slugs": [
+      "understanding-business-valuation",
+      "improving-business-value-before-a-sale",
+      "reducing-owner-dependence"
+    ]
+  },
+  {
+    "name": "Financial Readiness",
+    "description": "Organize consistent financial evidence for authorized review.",
+    "display_order": 3,
+    "icon_identifier": "ledger",
+    "related_seller_stage": "Package",
+    "guide_slugs": [
+      "organizing-financial-records"
+    ]
+  },
+  {
+    "name": "Financing",
+    "description": "Understand educational acquisition and seller-financing structures.",
+    "display_order": 4,
+    "icon_identifier": "capital",
+    "related_seller_stage": "Match",
+    "guide_slugs": [
+      "seller-financing",
+      "sba-acquisition-financing"
+    ]
+  },
+  {
+    "name": "Ownership Transition",
+    "description": "Plan management, family, and partner ownership changes.",
+    "display_order": 5,
+    "icon_identifier": "handoff",
+    "related_seller_stage": "Transition",
+    "guide_slugs": [
+      "management-buyouts",
+      "family-succession",
+      "partner-buyouts"
+    ]
+  },
+  {
+    "name": "Confidentiality",
+    "description": "Control identity, qualification, disclosure, and deal-room access.",
+    "display_order": 6,
+    "icon_identifier": "shield",
+    "related_seller_stage": "Match",
+    "guide_slugs": [
+      "confidential-business-sales"
+    ]
+  },
+  {
+    "name": "Advisors",
+    "description": "Select qualified professional scopes around actual transaction risks.",
+    "display_order": 7,
+    "icon_identifier": "network",
+    "related_seller_stage": "Prepare",
+    "guide_slugs": [
+      "choosing-transaction-advisors"
+    ]
+  },
+  {
+    "name": "Transition Execution",
+    "description": "Sequence communication, closing, continuity, and post-close work.",
+    "display_order": 8,
+    "icon_identifier": "sequence",
+    "related_seller_stage": "Transition",
+    "guide_slugs": [
+      "preparing-employees-and-customers",
+      "what-happens-after-closing"
+    ]
+  }
+]

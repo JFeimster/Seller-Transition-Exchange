@@ -1,0 +1,510 @@
+[
+  {
+    "id": "resource-01",
+    "slug": "preparing-to-sell-your-business",
+    "title": "Preparing to Sell Your Business",
+    "description": "A practical owner’s roadmap for defining the outcome, strengthening readiness, organizing evidence, and entering a controlled sale process.",
+    "category": "Sale Preparation",
+    "seller_stage": "Prepare",
+    "audience": [
+      "Business owners",
+      "Family-business owners",
+      "Digital-business owners"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Confidential sale",
+      "Partial sale"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 1,
+    "featured": true,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Exit Readiness",
+      "Value Builder",
+      "Seller Launch Studio"
+    ],
+    "related_guides": [
+      "organizing-financial-records",
+      "reducing-owner-dependence",
+      "confidential-business-sales"
+    ],
+    "primary_cta": "Start My Exit Readiness Assessment",
+    "primary_cta_href": "/exit-readiness",
+    "file_path": "content/resources/preparing-to-sell-your-business.mdx"
+  },
+  {
+    "id": "resource-02",
+    "slug": "understanding-business-valuation",
+    "title": "Understanding Business Valuation",
+    "description": "Understand the earnings, assets, growth, concentration, and transferability factors that shape value without mistaking an estimate for an appraisal.",
+    "category": "Valuation and Value Building",
+    "seller_stage": "Explore",
+    "audience": [
+      "Business owners",
+      "Family-business owners",
+      "Management teams"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 2,
+    "featured": true,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Value Builder",
+      "Exit Readiness",
+      "Capital Desk"
+    ],
+    "related_guides": [
+      "improving-business-value-before-a-sale",
+      "organizing-financial-records",
+      "seller-financing"
+    ],
+    "primary_cta": "Review My Value Drivers",
+    "primary_cta_href": "/value-builder",
+    "file_path": "content/resources/understanding-business-valuation.mdx"
+  },
+  {
+    "id": "resource-03",
+    "slug": "improving-business-value-before-a-sale",
+    "title": "Improving Business Value Before a Sale",
+    "description": "Prioritize the operational improvements that strengthen revenue quality, transferability, management depth, and evidence before a sale.",
+    "category": "Valuation and Value Building",
+    "seller_stage": "Prepare",
+    "audience": [
+      "Business owners",
+      "Management teams",
+      "Family successors"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partial sale"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 3,
+    "featured": true,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Value Builder",
+      "Exit Readiness",
+      "Transition Command Center"
+    ],
+    "related_guides": [
+      "understanding-business-valuation",
+      "reducing-owner-dependence",
+      "preparing-employees-and-customers"
+    ],
+    "primary_cta": "Build My Value Improvement Plan",
+    "primary_cta_href": "/value-builder",
+    "file_path": "content/resources/improving-business-value-before-a-sale.mdx"
+  },
+  {
+    "id": "resource-04",
+    "slug": "organizing-financial-records",
+    "title": "Organizing Financial Records for Buyers and Lenders",
+    "description": "Build a consistent, traceable financial package that helps buyers, lenders, and advisors understand performance without overstating readiness.",
+    "category": "Financial Readiness",
+    "seller_stage": "Package",
+    "audience": [
+      "Business owners",
+      "Controllers",
+      "Buyers seeking financing"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "12 min read",
+    "display_order": 4,
+    "featured": true,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Exit Readiness",
+      "Deal Room",
+      "Financing Readiness"
+    ],
+    "related_guides": [
+      "preparing-to-sell-your-business",
+      "understanding-business-valuation",
+      "sba-acquisition-financing"
+    ],
+    "primary_cta": "Review My Documentation Readiness",
+    "primary_cta_href": "/exit-readiness",
+    "file_path": "content/resources/organizing-financial-records.mdx"
+  },
+  {
+    "id": "resource-05",
+    "slug": "reducing-owner-dependence",
+    "title": "Reducing Owner Dependence",
+    "description": "Turn owner-held relationships, decisions, and operating knowledge into a transferable system without abandoning control.",
+    "category": "Valuation and Value Building",
+    "seller_stage": "Prepare",
+    "audience": [
+      "Business owners",
+      "Management teams",
+      "Family successors"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 5,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Value Builder",
+      "Exit Readiness",
+      "Change-of-Ownership Planning Center"
+    ],
+    "related_guides": [
+      "improving-business-value-before-a-sale",
+      "preparing-employees-and-customers",
+      "preparing-to-sell-your-business"
+    ],
+    "primary_cta": "Assess Owner Dependence",
+    "primary_cta_href": "/value-builder",
+    "file_path": "content/resources/reducing-owner-dependence.mdx"
+  },
+  {
+    "id": "resource-06",
+    "slug": "seller-financing",
+    "title": "Seller Financing",
+    "description": "Understand the structure, risk, security, and diligence questions behind a seller note before treating deferred payment as sale proceeds.",
+    "category": "Financing",
+    "seller_stage": "Match",
+    "audience": [
+      "Business owners",
+      "Identified buyers",
+      "Management teams",
+      "Family successors"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 6,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Financing Readiness",
+      "Capital Desk",
+      "Change-of-Ownership Planning Center"
+    ],
+    "related_guides": [
+      "sba-acquisition-financing",
+      "management-buyouts",
+      "partner-buyouts"
+    ],
+    "primary_cta": "Explore a Seller-Financed Structure",
+    "primary_cta_href": "/financing",
+    "file_path": "content/resources/seller-financing.mdx"
+  },
+  {
+    "id": "resource-07",
+    "slug": "sba-acquisition-financing",
+    "title": "SBA Acquisition Financing",
+    "description": "Prepare for an SBA-backed acquisition financing conversation without turning program summaries into eligibility or approval claims.",
+    "category": "Financing",
+    "seller_stage": "Match",
+    "audience": [
+      "Business owners",
+      "Acquisition buyers",
+      "Management teams"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 7,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Financing Readiness",
+      "Capital Desk",
+      "Deal Room"
+    ],
+    "related_guides": [
+      "organizing-financial-records",
+      "seller-financing",
+      "management-buyouts"
+    ],
+    "primary_cta": "Request a Financing Readiness Review",
+    "primary_cta_href": "/financing",
+    "file_path": "content/resources/sba-acquisition-financing.mdx"
+  },
+  {
+    "id": "resource-08",
+    "slug": "management-buyouts",
+    "title": "Management Buyouts",
+    "description": "Evaluate whether a management team can lead, fund, govern, and complete an ownership transition without confusing familiarity with readiness.",
+    "category": "Ownership Transition",
+    "seller_stage": "Explore",
+    "audience": [
+      "Business owners",
+      "Management teams",
+      "Internal successors"
+    ],
+    "transition_paths": [
+      "Management buyout"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 8,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Change-of-Ownership Planning Center",
+      "Financing Readiness",
+      "Legacy Matching"
+    ],
+    "related_guides": [
+      "seller-financing",
+      "sba-acquisition-financing",
+      "preparing-employees-and-customers"
+    ],
+    "primary_cta": "Explore a Management Buyout",
+    "primary_cta_href": "/change-of-ownership",
+    "file_path": "content/resources/management-buyouts.mdx"
+  },
+  {
+    "id": "resource-09",
+    "slug": "family-succession",
+    "title": "Family Succession",
+    "description": "Separate family hopes from successor capability, ownership design, seller income needs, governance, and a testable transition plan.",
+    "category": "Ownership Transition",
+    "seller_stage": "Explore",
+    "audience": [
+      "Business owners",
+      "Family successors",
+      "Family stakeholders"
+    ],
+    "transition_paths": [
+      "Family succession"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 9,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Change-of-Ownership Planning Center",
+      "Legacy Matching",
+      "Value Builder"
+    ],
+    "related_guides": [
+      "management-buyouts",
+      "partner-buyouts",
+      "preparing-employees-and-customers"
+    ],
+    "primary_cta": "Build a Family Succession Path",
+    "primary_cta_href": "/change-of-ownership",
+    "file_path": "content/resources/family-succession.mdx"
+  },
+  {
+    "id": "resource-10",
+    "slug": "partner-buyouts",
+    "title": "Partner Buyouts",
+    "description": "Organize the agreement, valuation, funding, control, guarantees, and communication issues behind one owner buying another.",
+    "category": "Ownership Transition",
+    "seller_stage": "Transition",
+    "audience": [
+      "Business partners",
+      "Co-owners",
+      "Professional advisors"
+    ],
+    "transition_paths": [
+      "Partner buyout"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 10,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Change-of-Ownership Planning Center",
+      "Financing Readiness",
+      "Deal Room"
+    ],
+    "related_guides": [
+      "understanding-business-valuation",
+      "seller-financing",
+      "what-happens-after-closing"
+    ],
+    "primary_cta": "Explore a Partner Buyout",
+    "primary_cta_href": "/change-of-ownership",
+    "file_path": "content/resources/partner-buyouts.mdx"
+  },
+  {
+    "id": "resource-11",
+    "slug": "confidential-business-sales",
+    "title": "Confidential Business Sales",
+    "description": "Design a controlled sale process that qualifies buyers, stages disclosure, and records seller approval before sensitive information moves.",
+    "category": "Confidentiality",
+    "seller_stage": "Match",
+    "audience": [
+      "Business owners",
+      "Advisors",
+      "Qualified buyers"
+    ],
+    "transition_paths": [
+      "Confidential sale",
+      "External sale",
+      "Private mandate"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 11,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Quiet Exit Network",
+      "Seller Launch Studio",
+      "Deal Room"
+    ],
+    "related_guides": [
+      "preparing-to-sell-your-business",
+      "choosing-transaction-advisors",
+      "preparing-employees-and-customers"
+    ],
+    "primary_cta": "Start a Confidential Transition",
+    "primary_cta_href": "/confidential-opportunities",
+    "file_path": "content/resources/confidential-business-sales.mdx"
+  },
+  {
+    "id": "resource-12",
+    "slug": "choosing-transaction-advisors",
+    "title": "Choosing Transaction Advisors",
+    "description": "Build the advisor team around actual transaction risks, clear scopes, disclosed conflicts, and accountable deliverables.",
+    "category": "Advisors",
+    "seller_stage": "Prepare",
+    "audience": [
+      "Business owners",
+      "Management teams",
+      "Family stakeholders"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "10 min read",
+    "display_order": 12,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Advisor Network",
+      "Transition Command Center",
+      "Seller Launch Studio"
+    ],
+    "related_guides": [
+      "preparing-to-sell-your-business",
+      "understanding-business-valuation",
+      "confidential-business-sales"
+    ],
+    "primary_cta": "Explore the Advisor Network",
+    "primary_cta_href": "/advisors",
+    "file_path": "content/resources/choosing-transaction-advisors.mdx"
+  },
+  {
+    "id": "resource-13",
+    "slug": "preparing-employees-and-customers",
+    "title": "Preparing Employees and Customers for a Transition",
+    "description": "Sequence confidential communication, retention, introductions, and day-one continuity for the people who experience the transition.",
+    "category": "Transition Execution",
+    "seller_stage": "Transition",
+    "audience": [
+      "Business owners",
+      "Management teams",
+      "Internal successors"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 13,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Change-of-Ownership Planning Center",
+      "Transition Command Center",
+      "Quiet Exit Network"
+    ],
+    "related_guides": [
+      "confidential-business-sales",
+      "reducing-owner-dependence",
+      "what-happens-after-closing"
+    ],
+    "primary_cta": "Create My Transition Communication Plan",
+    "primary_cta_href": "/change-of-ownership",
+    "file_path": "content/resources/preparing-employees-and-customers.mdx"
+  },
+  {
+    "id": "resource-14",
+    "slug": "what-happens-after-closing",
+    "title": "What Happens After Closing",
+    "description": "Turn the closing checklist into a controlled first 100 days covering funds, authority, access, communication, seller obligations, and disputes.",
+    "category": "Transition Execution",
+    "seller_stage": "Post-Close",
+    "audience": [
+      "Business sellers",
+      "New owners",
+      "Management teams",
+      "Family successors"
+    ],
+    "transition_paths": [
+      "External sale",
+      "Management buyout",
+      "Family succession",
+      "Partner buyout"
+    ],
+    "estimated_read_time": "11 min read",
+    "display_order": 14,
+    "featured": false,
+    "evidence_status": "editorial-review-required",
+    "last_reviewed": "2026-07-31",
+    "related_modules": [
+      "Transition Command Center",
+      "Deal Room",
+      "Change-of-Ownership Planning Center"
+    ],
+    "related_guides": [
+      "preparing-employees-and-customers",
+      "seller-financing",
+      "partner-buyouts"
+    ],
+    "primary_cta": "Build a Post-Close Transition Plan",
+    "primary_cta_href": "/change-of-ownership",
+    "file_path": "content/resources/what-happens-after-closing.mdx"
+  }
+]

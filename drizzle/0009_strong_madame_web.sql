@@ -1,0 +1,21 @@
+CREATE INDEX `advisor_assignments_advisor_idx` ON `advisor_assignments` (`advisor_id`);--> statement-breakpoint
+CREATE INDEX `advisor_assignments_seller_idx` ON `advisor_assignments` (`seller_id`);--> statement-breakpoint
+CREATE INDEX `advisor_assignments_expiration_idx` ON `advisor_assignments` (`access_expiration`);--> statement-breakpoint
+CREATE INDEX `advisors_user_idx` ON `advisors` (`user_id`);--> statement-breakpoint
+CREATE INDEX `advisors_public_status_idx` ON `advisors` (`public_visibility`,`verification_status`);--> statement-breakpoint
+CREATE INDEX `event_registrations_event_idx` ON `event_registrations` (`event_id`);--> statement-breakpoint
+CREATE INDEX `event_registrations_user_idx` ON `event_registrations` (`user_id`);--> statement-breakpoint
+CREATE INDEX `introduction_requests_requester_idx` ON `introduction_requests` (`requester_id`);--> statement-breakpoint
+CREATE INDEX `introduction_requests_seller_idx` ON `introduction_requests` (`seller_id`);--> statement-breakpoint
+CREATE INDEX `introduction_requests_buyer_idx` ON `introduction_requests` (`buyer_id`);--> statement-breakpoint
+CREATE INDEX `introduction_requests_advisor_idx` ON `introduction_requests` (`advisor_id`);--> statement-breakpoint
+CREATE INDEX `introduction_requests_status_idx` ON `introduction_requests` (`status`);--> statement-breakpoint
+CREATE INDEX `network_audit_events_entity_idx` ON `network_audit_events` (`entity_type`,`entity_id`);--> statement-breakpoint
+CREATE INDEX `network_audit_events_actor_idx` ON `network_audit_events` (`actor_id`);--> statement-breakpoint
+CREATE INDEX `network_audit_events_created_idx` ON `network_audit_events` (`created_at`);--> statement-breakpoint
+CREATE INDEX `network_events_public_status_idx` ON `network_events` (`public_visibility`,`status`);--> statement-breakpoint
+CREATE INDEX `network_events_region_idx` ON `network_events` (`regional_market_id`);--> statement-breakpoint
+CREATE INDEX `network_events_start_idx` ON `network_events` (`start_at`);--> statement-breakpoint
+CREATE INDEX `regional_markets_public_idx` ON `regional_markets` (`public_visibility`,`review_status`);--> statement-breakpoint
+CREATE INDEX `seller_buyer_shortlists_seller_idx` ON `seller_buyer_shortlists` (`seller_id`);--> statement-breakpoint
+CREATE INDEX `seller_buyer_shortlists_buyer_idx` ON `seller_buyer_shortlists` (`buyer_id`);

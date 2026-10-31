@@ -1,0 +1,241 @@
+[
+  {
+    "guide_slug": "preparing-to-sell-your-business",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "seller-transition-exchange/SKILL.md",
+      "exit-readiness-and-value-builder/references/value-builder-playbook.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "understanding-business-valuation",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "exit-readiness-and-value-builder/SKILL.md",
+      "exit-readiness-and-value-builder/references/value-builder-playbook.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "improving-business-value-before-a-sale",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "exit-readiness-and-value-builder/SKILL.md",
+      "exit-readiness-and-value-builder/references/value-builder-playbook.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "organizing-financial-records",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "exit-readiness-and-value-builder/SKILL.md",
+      "seller-transition-exchange/references/evidence-and-transaction-guardrails.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "reducing-owner-dependence",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "exit-readiness-and-value-builder/SKILL.md",
+      "exit-readiness-and-value-builder/references/value-builder-playbook.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "seller-financing",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "buyer-matching-and-financing/SKILL.md",
+      "buyer-matching-and-financing/references/financing-boundaries.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "sba-acquisition-financing",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "buyer-matching-and-financing/SKILL.md",
+      "buyer-matching-and-financing/references/financing-boundaries.md"
+    ],
+    "external_authoritative_sources_used": [
+      {
+        "organization": "U.S. Small Business Administration",
+        "title": "7(a) loans",
+        "url": "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "reviewed_on": "2026-07-31"
+      },
+      {
+        "organization": "U.S. Small Business Administration",
+        "title": "SOP 50 10 - Lender and Development Company Loan Programs",
+        "url": "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs",
+        "reviewed_on": "2026-07-31"
+      }
+    ],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [
+      "Current SBA program eligibility, lender requirements, loan terms, equity treatment, and closing conditions."
+    ],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "management-buyouts",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "succession-and-legacy-transition/SKILL.md",
+      "succession-and-legacy-transition/references/transition-paths.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "family-succession",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "succession-and-legacy-transition/SKILL.md",
+      "succession-and-legacy-transition/references/transition-paths.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "partner-buyouts",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "succession-and-legacy-transition/SKILL.md",
+      "succession-and-legacy-transition/references/transition-paths.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "confidential-business-sales",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "seller-listing-and-confidentiality/SKILL.md",
+      "seller-listing-and-confidentiality/references/confidentiality-and-disclosure.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "choosing-transaction-advisors",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "seller-transition-exchange/references/evidence-and-transaction-guardrails.md",
+      "seller-launch-studio/references/claims-and-review-policy.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "preparing-employees-and-customers",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "succession-and-legacy-transition/SKILL.md",
+      "seller-transition-exchange/references/output-contracts.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  },
+  {
+    "guide_slug": "what-happens-after-closing",
+    "source_status": "editorial-review-required",
+    "local_references_used": [
+      "succession-and-legacy-transition/SKILL.md",
+      "seller-transition-exchange/references/output-contracts.md"
+    ],
+    "external_authoritative_sources_used": [],
+    "claims_requiring_professional_review": [
+      "Transaction-specific legal, tax, accounting, valuation, brokerage, investment, employment, or financing conclusions."
+    ],
+    "current_law_or_program_claims": [],
+    "last_source_review": "2026-07-31",
+    "reviewer": null,
+    "publication_approval": false
+  }
+]

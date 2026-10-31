@@ -1,0 +1,295 @@
+[
+  {
+    "guide_slug": "preparing-to-sell-your-business",
+    "outbound_internal_links": [
+      "/resources/organizing-financial-records",
+      "/resources/reducing-owner-dependence",
+      "/resources/confidential-business-sales"
+    ],
+    "inbound_internal_links": [
+      "/resources/organizing-financial-records",
+      "/resources/reducing-owner-dependence",
+      "/resources/confidential-business-sales",
+      "/resources/choosing-transaction-advisors"
+    ],
+    "platform_route_links": [
+      "/exit-readiness",
+      "/value-builder",
+      "/seller-launch-studio"
+    ],
+    "cta_links": [
+      "/exit-readiness"
+    ]
+  },
+  {
+    "guide_slug": "understanding-business-valuation",
+    "outbound_internal_links": [
+      "/resources/improving-business-value-before-a-sale",
+      "/resources/organizing-financial-records",
+      "/resources/seller-financing"
+    ],
+    "inbound_internal_links": [
+      "/resources/improving-business-value-before-a-sale",
+      "/resources/organizing-financial-records",
+      "/resources/partner-buyouts",
+      "/resources/choosing-transaction-advisors"
+    ],
+    "platform_route_links": [
+      "/value-builder",
+      "/exit-readiness",
+      "/acquisition-financing"
+    ],
+    "cta_links": [
+      "/value-builder"
+    ]
+  },
+  {
+    "guide_slug": "improving-business-value-before-a-sale",
+    "outbound_internal_links": [
+      "/resources/understanding-business-valuation",
+      "/resources/reducing-owner-dependence",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "inbound_internal_links": [
+      "/resources/understanding-business-valuation",
+      "/resources/reducing-owner-dependence"
+    ],
+    "platform_route_links": [
+      "/value-builder",
+      "/exit-readiness",
+      "/transition"
+    ],
+    "cta_links": [
+      "/value-builder"
+    ]
+  },
+  {
+    "guide_slug": "organizing-financial-records",
+    "outbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/understanding-business-valuation",
+      "/resources/sba-acquisition-financing"
+    ],
+    "inbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/understanding-business-valuation",
+      "/resources/sba-acquisition-financing"
+    ],
+    "platform_route_links": [
+      "/exit-readiness",
+      "/deal-room",
+      "/financing-readiness"
+    ],
+    "cta_links": [
+      "/exit-readiness"
+    ]
+  },
+  {
+    "guide_slug": "reducing-owner-dependence",
+    "outbound_internal_links": [
+      "/resources/improving-business-value-before-a-sale",
+      "/resources/preparing-employees-and-customers",
+      "/resources/preparing-to-sell-your-business"
+    ],
+    "inbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/improving-business-value-before-a-sale",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "platform_route_links": [
+      "/value-builder",
+      "/exit-readiness",
+      "/change-of-ownership"
+    ],
+    "cta_links": [
+      "/value-builder"
+    ]
+  },
+  {
+    "guide_slug": "seller-financing",
+    "outbound_internal_links": [
+      "/resources/sba-acquisition-financing",
+      "/resources/management-buyouts",
+      "/resources/partner-buyouts"
+    ],
+    "inbound_internal_links": [
+      "/resources/understanding-business-valuation",
+      "/resources/sba-acquisition-financing",
+      "/resources/management-buyouts",
+      "/resources/partner-buyouts",
+      "/resources/what-happens-after-closing"
+    ],
+    "platform_route_links": [
+      "/financing-readiness",
+      "/acquisition-financing",
+      "/change-of-ownership"
+    ],
+    "cta_links": [
+      "/financing"
+    ]
+  },
+  {
+    "guide_slug": "sba-acquisition-financing",
+    "outbound_internal_links": [
+      "/resources/organizing-financial-records",
+      "/resources/seller-financing",
+      "/resources/management-buyouts"
+    ],
+    "inbound_internal_links": [
+      "/resources/organizing-financial-records",
+      "/resources/seller-financing",
+      "/resources/management-buyouts"
+    ],
+    "platform_route_links": [
+      "/financing-readiness",
+      "/acquisition-financing",
+      "/deal-room"
+    ],
+    "cta_links": [
+      "/financing"
+    ]
+  },
+  {
+    "guide_slug": "management-buyouts",
+    "outbound_internal_links": [
+      "/resources/seller-financing",
+      "/resources/sba-acquisition-financing",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "inbound_internal_links": [
+      "/resources/seller-financing",
+      "/resources/sba-acquisition-financing",
+      "/resources/family-succession"
+    ],
+    "platform_route_links": [
+      "/change-of-ownership",
+      "/financing-readiness",
+      "/legacy-matching"
+    ],
+    "cta_links": [
+      "/change-of-ownership"
+    ]
+  },
+  {
+    "guide_slug": "family-succession",
+    "outbound_internal_links": [
+      "/resources/management-buyouts",
+      "/resources/partner-buyouts",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "inbound_internal_links": [],
+    "platform_route_links": [
+      "/change-of-ownership",
+      "/legacy-matching",
+      "/value-builder"
+    ],
+    "cta_links": [
+      "/change-of-ownership"
+    ]
+  },
+  {
+    "guide_slug": "partner-buyouts",
+    "outbound_internal_links": [
+      "/resources/understanding-business-valuation",
+      "/resources/seller-financing",
+      "/resources/what-happens-after-closing"
+    ],
+    "inbound_internal_links": [
+      "/resources/seller-financing",
+      "/resources/family-succession",
+      "/resources/what-happens-after-closing"
+    ],
+    "platform_route_links": [
+      "/change-of-ownership",
+      "/financing-readiness",
+      "/deal-room"
+    ],
+    "cta_links": [
+      "/change-of-ownership"
+    ]
+  },
+  {
+    "guide_slug": "confidential-business-sales",
+    "outbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/choosing-transaction-advisors",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "inbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/choosing-transaction-advisors",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "platform_route_links": [
+      "/quiet-exit",
+      "/seller-launch-studio",
+      "/deal-room"
+    ],
+    "cta_links": [
+      "/confidential-opportunities"
+    ]
+  },
+  {
+    "guide_slug": "choosing-transaction-advisors",
+    "outbound_internal_links": [
+      "/resources/preparing-to-sell-your-business",
+      "/resources/understanding-business-valuation",
+      "/resources/confidential-business-sales"
+    ],
+    "inbound_internal_links": [
+      "/resources/confidential-business-sales"
+    ],
+    "platform_route_links": [
+      "/advisors",
+      "/transition",
+      "/seller-launch-studio"
+    ],
+    "cta_links": [
+      "/advisors"
+    ]
+  },
+  {
+    "guide_slug": "preparing-employees-and-customers",
+    "outbound_internal_links": [
+      "/resources/confidential-business-sales",
+      "/resources/reducing-owner-dependence",
+      "/resources/what-happens-after-closing"
+    ],
+    "inbound_internal_links": [
+      "/resources/improving-business-value-before-a-sale",
+      "/resources/reducing-owner-dependence",
+      "/resources/management-buyouts",
+      "/resources/family-succession",
+      "/resources/confidential-business-sales",
+      "/resources/what-happens-after-closing"
+    ],
+    "platform_route_links": [
+      "/change-of-ownership",
+      "/transition",
+      "/quiet-exit"
+    ],
+    "cta_links": [
+      "/change-of-ownership"
+    ]
+  },
+  {
+    "guide_slug": "what-happens-after-closing",
+    "outbound_internal_links": [
+      "/resources/preparing-employees-and-customers",
+      "/resources/seller-financing",
+      "/resources/partner-buyouts"
+    ],
+    "inbound_internal_links": [
+      "/resources/partner-buyouts",
+      "/resources/preparing-employees-and-customers"
+    ],
+    "platform_route_links": [
+      "/transition",
+      "/deal-room",
+      "/change-of-ownership"
+    ],
+    "cta_links": [
+      "/change-of-ownership"
+    ]
+  }
+]
