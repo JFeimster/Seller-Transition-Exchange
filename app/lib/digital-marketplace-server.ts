@@ -1,3 +1,5 @@
+import { LEGACY_SITE_ORIGIN, SITE_ORIGIN } from "./site-origin";
+
 type JsonRecord = Record<string, unknown>;
 
 export type DigitalListing = {
@@ -224,8 +226,8 @@ export function publicError(code: string, message: string, correlation_id: strin
 export function requestAllowed(request: Request, limit = 60) {
   const origin = request.headers.get("origin");
   const ownOrigin = new URL(request.url).origin;
-  const approved = new Set([ownOrigin, "https://seller-transition-exchange.feimster.chatgpt.site"]);
-  const configured = process.env.SELLER_EXCHANGE_PUBLIC_ORIGIN;
+  const approved = new Set([ownOrigin, SITE_ORIGIN, LEGACY_SITE_ORIGIN]);
+  const configured = process.env.SELLER_EXCHANGE_PUBLIC_ORIGIN?.trim().replace(/\/+$/, "");
   if (configured) approved.add(configured);
   if (origin && !approved.has(origin)) return { ok: false, status: 403, code: "ORIGIN_NOT_ALLOWED" };
   const key = request.headers.get("cf-connecting-ip") ?? "anonymous";

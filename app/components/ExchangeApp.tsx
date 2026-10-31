@@ -10,6 +10,7 @@ import { LaunchStudioDealRoomModule } from "./LaunchStudioDealRoomModule";
 import { NetworkModule } from "./NetworkModule";
 import { TransactionOSModule } from "./TransactionOSModule";
 import { resourceCategories, resourceGuides, resourceModuleLinks, resourcePaths, resourceStages, type ResourceGuide, type ResourceHeadingBlock } from "../lib/resource-library";
+import { SITE_ORIGIN } from "../lib/site-origin";
 import { demoListingFacets, skillForIndustry, verticalIndustryNames } from "../lib/vertical-intelligence";
 
 type FormState = Record<string, string | boolean>;
@@ -830,7 +831,7 @@ function ResourceGuidePage({ guide, go }: { guide: ResourceGuide; go: (path: str
     headline: guide.title,
     description: guide.description,
     dateModified: guide.last_reviewed,
-    mainEntityOfPage: `https://seller-transition-exchange.feimster.chatgpt.site/resources/${guide.slug}`,
+    mainEntityOfPage: `${SITE_ORIGIN}/resources/${guide.slug}`,
     publisher: { "@type": "Organization", name: "Seller Transition Exchange" },
   };
   return <>

@@ -1,8 +1,7 @@
 import type { MetadataRoute } from "next";
 import resourceGuides from "../data/resource-guides.json";
+import { SITE_ORIGIN } from "./lib/site-origin";
 import { verticalIndustryNames } from "./lib/vertical-intelligence";
-
-const origin = "https://seller-transition-exchange.feimster.chatgpt.site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const publicRoutes = [
@@ -59,11 +58,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   return [
-    ...publicRoutes.map((route) => ({ url: `${origin}${route}`, changeFrequency: "weekly" as const })),
-    ...verticalIndustryNames.map((industry) => ({ url: `${origin}/industries/${industry.toLowerCase().replaceAll(" ", "-")}`, changeFrequency: "monthly" as const })),
-    ...["washington-dc", "northern-virginia", "alexandria", "arlington", "fairfax", "maryland", "baltimore", "richmond"].map((slug) => ({ url: `${origin}/markets/${slug}`, changeFrequency: "monthly" as const })),
+    ...publicRoutes.map((route) => ({ url: `${SITE_ORIGIN}${route}`, changeFrequency: "weekly" as const })),
+    ...verticalIndustryNames.map((industry) => ({ url: `${SITE_ORIGIN}/industries/${industry.toLowerCase().replaceAll(" ", "-")}`, changeFrequency: "monthly" as const })),
+    ...["washington-dc", "northern-virginia", "alexandria", "arlington", "fairfax", "maryland", "baltimore", "richmond"].map((slug) => ({ url: `${SITE_ORIGIN}/markets/${slug}`, changeFrequency: "monthly" as const })),
     ...resourceGuides.map((guide) => ({
-      url: `${origin}/resources/${guide.slug}`,
+      url: `${SITE_ORIGIN}/resources/${guide.slug}`,
       lastModified: guide.last_reviewed,
       changeFrequency: "monthly" as const,
     })),

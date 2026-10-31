@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SITE_ORIGIN } from "./lib/site-origin";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://seller-transition-exchange.feimster.chatgpt.site"),
+  metadataBase: new URL(SITE_ORIGIN),
   title: "Seller Transition Exchange | Prepare, Match & Finance the Transition",
   description: "A seller-focused public/private acquisition marketplace for exit readiness, controlled listings, buyer matching, and change-of-ownership financing.",
   other: {
